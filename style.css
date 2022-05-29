@@ -1,4 +1,11 @@
-body {background-color:tan;}
-h1{color:green;}
-
+body {background-color:black;font-family:arial;color:white} /*This is the design of the whole body; the background is black and the font is arial and the font color is white*/
+h1{color:grey;font-family:verdana} /*This is the design of h1; the font is verdana and the font color is grey*/
+.maindiv { /*This is where the calculator app is located*/
+    background-color:white; /*The background is white*/
+    color:black; /*The font color is black*/
+    width:300px; /*The width is 300 pixels*/
+    padding:20px; /*The padding is 20 pixels*/
+    border-radius:25px; /*The radius of the border of the div is 25 pixels*/
+    align:center /*It is aligned to the center*/
+} 
 
